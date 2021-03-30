@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecycleviewArya</string>
+    <string name="nama_anggota">Nama Anggota</string>
+    <string name="detail_anggota">Detail Anggota</string>
+    <string name="nama_gambelan">Nama Gambelan</string>
+    <string name="detail_gambelan">Detail Gambelan</string>
+</resources>
